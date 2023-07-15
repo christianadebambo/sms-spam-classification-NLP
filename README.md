@@ -1,6 +1,6 @@
 # SMS Spam Classification
 
-Develop an SMS Spam Classifier using NLP (CountVectorizer + TfidfTransformer + MultinomialNB)
+Develop an SMS Spam Classifier using a pipeline of CountVectorizer + TfidfTransformer + MultinomialNB
 
 ## Requirements
 
