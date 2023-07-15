@@ -18,7 +18,7 @@ or
 pip3 install -r requirements.txt --user
 ~~~
 
-## Running the file
+## Usage
 
 Run the following command:
 
